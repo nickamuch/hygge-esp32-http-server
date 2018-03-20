@@ -9,7 +9,6 @@
 #include "mgos_atca.h"
 #endif
 
-#include <regex.h>
 #include <stdbool.h>
 #include <stdio.h>
 #include <stdlib.h>
